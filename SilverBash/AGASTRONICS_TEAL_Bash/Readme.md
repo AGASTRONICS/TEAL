@@ -50,4 +50,4 @@
 ## READ MORE:
     Check https://pyteal.readthedocs.io/
 ## YOUTUBE LINK:
-    
+    https://youtu.be/amQNCiPrmRc
